@@ -14,8 +14,8 @@
     
     <table>
       <tr>
-        <td><img src="images/rogin-function-screenshot1.png" alt="ログイン機能のスクリーンショット1" width="400"/></td>
-        <td><img src="images/rogin-function-screenshot2.png" alt="ログイン機能のスクリーンショット2" width="400"/></td>
+        <td><img src="images/rogin-function-screenshot1.png" alt="ログイン機能のスクリーンショット1" width="250"/></td>
+        <td><img src="images/rogin-function-screenshot2.png" alt="ログイン機能のスクリーンショット2" width="250"/></td>
       </tr>
     </table>
 
