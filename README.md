@@ -2,7 +2,7 @@
 
 これは、HTML、CSS、JavaScriptで作成された、シンプルで直感的なTo-Doリストアプリケーションです。
 
-![To-Do-apppのスクリーンショット](images/portfolio-screenshot.png)
+![To-Do-appのスクリーンショット](images/To-Do-app-screenshot.png)
 
 ## 主な機能 (工夫した点)
 
