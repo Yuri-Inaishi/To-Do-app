@@ -11,8 +11,13 @@
 
 *   **ログイン機能の実装**:
     ユーザー認証機能を実装し、タスクを安全に管理できます。
-    ![ログイン機能のスクリーンショット1](images/rogin-function-screenshot1.png)
-    ![ログイン機能のスクリーンショット2](images/rogin-function-screenshot2.png)
+    
+    <table>
+      <tr>
+        <td><img src="images/rogin-function-screenshot1.png" alt="ログイン機能のスクリーンショット1" width="400"/></td>
+        <td><img src="images/rogin-function-screenshot2.png" alt="ログイン機能のスクリーンショット2" width="400"/></td>
+      </tr>
+    </table>
 
 *   **細かな機能の実装**:
     タスクの追加や削除など、To-Do管理に不可欠な機能を備えています。
