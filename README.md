@@ -2,6 +2,8 @@
 
 これは、HTML、CSS、JavaScriptで作成された、シンプルで直感的なTo-Doリストアプリケーションです。
 
+![To-Do-apppのスクリーンショット](images/portfolio-screenshot.png)
+
 ## 主な機能 (工夫した点)
 
 *   **シンプルなデザイン**:
