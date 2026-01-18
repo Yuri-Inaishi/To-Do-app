@@ -12,13 +12,13 @@
   <tr>
     <td width="50%">
   <h3>ログイン機能の実装</h3>
-  <p>ユーザー認証機能を実装し、タスクを安全に管理できます。</p>>
+  <p>ユーザー認証機能を実装し、タスクを安全に管理できます。</p>
     <img src="images/rogin-screenshot.png" alt="ログイン機能" width="100%"/>
 </td>
     <td width="50%">
   <h3>シンプルなデザイン</h3>
   <p>クリーンで使いやすいインターフェースにより、快適なユーザー体験を提供します。</p>
-  <img src="videos/.gif" alt="デザイン"  width="380" height="160"/>
+  <img src="images/design-screenshot.png" alt="デザイン" width="100%"/>
 </td>
   </tr>
   <tr>
