@@ -18,7 +18,7 @@
     <td width="50%">
   <h3>シンプルなデザイン</h3>
   <p>クリーンで使いやすいインターフェースにより、快適なユーザー体験を提供します。</p>
-  <img src="images/design-screenshot.png" alt="デザイン" width="100%"/>
+  　<img src="images/design-screenshot.png" alt="デザイン" width="100%"/>
 </td>
   </tr>
   <tr>
